@@ -1,0 +1,451 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="Direction Charge in Field.svg"
+   inkscape:export-filename="Direction Charge in Field.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.89071844"
+     inkscape:cx="435.60342"
+     inkscape:cy="383.39837"
+     inkscape:window-width="1364"
+     inkscape:window-height="951"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <marker
+       style="overflow:visible"
+       id="Sketch"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Sketch"
+       markerWidth="7.5655537"
+       markerHeight="6.7364779"
+       viewBox="0 0 7.5655539 6.7364778"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:0.4;stroke-linecap:round"
+         d="m -4.5421538,-3.2452189 3.83900644,2.60235235 0.56348102,0.59255887 L -2.4921466,1.1808717 -4.4106004,2.139946 -4.5795251,2.8245356 -4.703996,3.0734773 -4.3128019,2.6822832 -3.9749524,2.3088707 0.66603196,-0.12720162 0.02589622,-0.32279868 -1.7613224,-0.60366199 -3.580874,-2.0472634 -4.3186004,-2.392437 l -1.2937699,-0.2549423 2.1825172,0.042166 0.6996091,1.0554873 1.4406512,0.1145833 1.20879971,0.91674665 1.53333299,0.47138389 -1.85995289,1.23785256 -2.03832621,0.9224332 -1.5469949,0.9779853"
+         id="path22096"
+         sodipodi:nodetypes="ccc" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow4"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Arrow4"
+       markerWidth="5"
+       markerHeight="6"
+       viewBox="0 0 5 6"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         d="m 1,0 -3,3 h -2 l 3,-3 -3,-3 h 2 z"
+         id="path1741" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow4-3"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Arrow4"
+       markerWidth="5"
+       markerHeight="6"
+       viewBox="0 0 5 6"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         d="m 1,0 -3,3 h -2 l 3,-3 -3,-3 h 2 z"
+         id="path1741-6" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow4-5"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Arrow4"
+       markerWidth="5"
+       markerHeight="6"
+       viewBox="0 0 5 6"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         d="m 1,0 -3,3 h -2 l 3,-3 -3,-3 h 2 z"
+         id="path1741-3" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow4-6"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Arrow4"
+       markerWidth="5"
+       markerHeight="6"
+       viewBox="0 0 5 6"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         d="m 1,0 -3,3 h -2 l 3,-3 -3,-3 h 2 z"
+         id="path1741-2" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow4-1"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Arrow4"
+       markerWidth="5"
+       markerHeight="6"
+       viewBox="0 0 5 6"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         d="m 1,0 -3,3 h -2 l 3,-3 -3,-3 h 2 z"
+         id="path1741-27" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow4-6-9"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Arrow4"
+       markerWidth="5"
+       markerHeight="6"
+       viewBox="0 0 5 6"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         d="m 1,0 -3,3 h -2 l 3,-3 -3,-3 h 2 z"
+         id="path1741-2-3" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow4-1-6"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Arrow4"
+       markerWidth="5"
+       markerHeight="6"
+       viewBox="0 0 5 6"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         d="m 1,0 -3,3 h -2 l 3,-3 -3,-3 h 2 z"
+         id="path1741-27-0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow4-5-6"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Arrow4"
+       markerWidth="5"
+       markerHeight="6"
+       viewBox="0 0 5 6"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         d="m 1,0 -3,3 h -2 l 3,-3 -3,-3 h 2 z"
+         id="path1741-3-2" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow4-3-6"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Arrow4"
+       markerWidth="5"
+       markerHeight="6"
+       viewBox="0 0 5 6"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         d="m 1,0 -3,3 h -2 l 3,-3 -3,-3 h 2 z"
+         id="path1741-6-1" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow4-8"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Arrow4"
+       markerWidth="5"
+       markerHeight="6"
+       viewBox="0 0 5 6"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         d="m 1,0 -3,3 h -2 l 3,-3 -3,-3 h 2 z"
+         id="path1741-7" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Sketch-8"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Sketch"
+       markerWidth="7.5655537"
+       markerHeight="6.7364779"
+       viewBox="0 0 7.5655539 6.7364778"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:0.4;stroke-linecap:round"
+         d="m -4.5421539,-3.2452189 3.83900647,2.60235235 0.563481,0.59255887 L -2.4921466,1.1808717 -4.4106005,2.139946 -4.5795252,2.8245356 -4.7039961,3.0734773 -4.312802,2.6822832 -3.9749525,2.3088707 0.66603187,-0.12720162 0.02589617,-0.32279868 -1.7613224,-0.60366199 -3.5808741,-2.0472634 -4.3186005,-2.392437 l -1.2937698,-0.2549423 2.1825171,0.042166 0.6996092,1.0554873 1.4406512,0.1145833 1.20879967,0.91674665 1.53333303,0.47138389 -1.85995293,1.23785256 -2.03832617,0.9224332 -1.546995,0.9779853"
+         id="path22096-9"
+         sodipodi:nodetypes="ccc" />
+    </marker>
+  </defs>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Layer 2">
+    <text
+       xml:space="preserve"
+       style="font-size:14.492px;font-family:'DejaVu Serif';-inkscape-font-specification:'DejaVu Serif';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.57055;stroke-dasharray:none;stroke-opacity:0.911086;opacity:0.25577937"
+       x="78.297119"
+       y="86.926147"
+       id="text6631"
+       transform="matrix(0.89461188,-0.32273534,0.28439857,1.0152051,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan6629"
+         style="font-size:14.492px;stroke-width:0.570552"
+         x="78.297119"
+         y="86.926147">ACHEN'S SCRIBBLES</tspan></text>
+  </g>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-size:8.46667px;font-family:'DejaVu Serif';-inkscape-font-specification:'DejaVu Serif';fill:none;fill-opacity:0.905882;stroke:#000000;stroke-width:1;stroke-dasharray:none"
+       x="48.52277"
+       y="15.261259"
+       id="text236"><tspan
+         sodipodi:role="line"
+         id="tspan234"
+         style="stroke-width:1;stroke-dasharray:none"
+         x="48.52277"
+         y="15.261259" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:8.46667px;font-family:'DejaVu Serif';-inkscape-font-specification:'DejaVu Serif';fill:none;fill-opacity:0.905882;stroke:#000000;stroke-width:0.1;stroke-dasharray:none"
+       x="49.26812"
+       y="11.131426"
+       id="text899"><tspan
+         sodipodi:role="line"
+         id="tspan897"
+         style="fill:#000000;fill-opacity:1;stroke-width:0.1;stroke-dasharray:none"
+         x="49.26812"
+         y="11.131426">Charge Direction in </tspan><tspan
+         sodipodi:role="line"
+         style="fill:#000000;fill-opacity:1;stroke-width:0.1;stroke-dasharray:none"
+         x="49.26812"
+         y="21.714762"
+         id="tspan6424">Field of Electrostatic</tspan></text>
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.603;stroke-dasharray:none;marker-end:url(#Arrow4)"
+       d="M 24.158481,28.997576 H 73.681864"
+       id="path1113" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.603;stroke-dasharray:none;marker-end:url(#Arrow4-3)"
+       d="M 24.158481,34.818394 H 73.681864"
+       id="path1113-7" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.603;stroke-dasharray:none;marker-end:url(#Arrow4-5)"
+       d="M 24.158481,42.055727 H 73.681864"
+       id="path1113-5" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.603;stroke-dasharray:none;marker-end:url(#Arrow4-6)"
+       d="M 24.158481,48.788149 H 73.681864"
+       id="path1113-9" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.603;stroke-dasharray:none;marker-end:url(#Arrow4-1)"
+       d="M 24.158481,55.688874 H 73.681864"
+       id="path1113-0" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.603;stroke-dasharray:none;marker-end:url(#Arrow4-8)"
+       d="m 107.29247,28.441269 h 49.52338"
+       id="path1113-92" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.603;stroke-dasharray:none;marker-end:url(#Arrow4-3-6)"
+       d="m 107.29247,34.262087 h 49.52338"
+       id="path1113-7-0" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.603;stroke-dasharray:none;marker-end:url(#Arrow4-5-6)"
+       d="m 107.29247,41.49942 h 49.52338"
+       id="path1113-5-2" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.603;stroke-dasharray:none;marker-end:url(#Arrow4-6-9)"
+       d="m 107.29247,48.231842 h 49.52338"
+       id="path1113-9-3" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.603;stroke-dasharray:none;marker-end:url(#Arrow4-1-6)"
+       d="m 107.29247,55.132567 h 49.52338"
+       id="path1113-0-7" />
+    <g
+       id="g2004"
+       transform="translate(-3.186894,-46.480748)">
+      <circle
+         style="fill:#e4f204;fill-opacity:1;stroke:#000000;stroke-width:0.603001;stroke-dasharray:none"
+         id="path1943"
+         cx="32.341908"
+         cy="84.831848"
+         r="4.6950321" />
+      <text
+         xml:space="preserve"
+         style="font-size:8.46667px;font-family:'DejaVu Serif';-inkscape-font-specification:'DejaVu Serif';fill:#e4f204;fill-opacity:1;stroke:#000000;stroke-width:0.603001;stroke-dasharray:none"
+         x="28.827158"
+         y="87.147835"
+         id="text1999"><tspan
+           sodipodi:role="line"
+           id="tspan1997"
+           style="stroke-width:0.603"
+           x="28.827158"
+           y="87.147835">+</tspan></text>
+    </g>
+    <g
+       id="g4067"
+       transform="translate(30.222771,-50.733454)">
+      <circle
+         style="fill:#0a23f2;fill-opacity:1;stroke:#000000;stroke-width:0.603001;stroke-dasharray:none"
+         id="path1943-9"
+         cx="122.19955"
+         cy="88.439003"
+         r="4.6950321" />
+      <text
+         xml:space="preserve"
+         style="font-size:12.7px;font-family:'DejaVu Serif';-inkscape-font-specification:'DejaVu Serif';fill:#fffff6;fill-opacity:1;stroke:#fffbff;stroke-width:4.303;stroke-dasharray:none;stroke-opacity:0.167269"
+         x="119.99746"
+         y="91.509262"
+         id="text1999-2"><tspan
+           sodipodi:role="line"
+           id="tspan1997-2"
+           style="font-size:12.7px;fill:#fffff6;fill-opacity:1;stroke:#fffbff;stroke-width:4.303;stroke-dasharray:none;stroke-opacity:0.167269"
+           x="119.99746"
+           y="91.509262">-</tspan></text>
+    </g>
+    <path
+       style="fill:none;fill-opacity:1;stroke:#f4a508;stroke-width:1.103;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Sketch)"
+       d="M 24.158481,38.746732 H 51.394353"
+       id="path2060" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#4c6bf0;stroke-width:1.103;stroke-dasharray:none;stroke-opacity:0.911086;marker-end:url(#Sketch-8)"
+       d="M 157.41885,37.439668 H 130.18298"
+       id="path2060-7" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.93889px;font-family:'DejaVu Serif';-inkscape-font-specification:'DejaVu Serif';fill:#fffff6;fill-opacity:1;stroke:#4c6bf0;stroke-width:0.5;stroke-dasharray:none;stroke-opacity:0.911086"
+       x="52.673759"
+       y="68.009277"
+       id="text4566"><tspan
+         sodipodi:role="line"
+         id="tspan4564"
+         style="font-size:4.93889px;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-dasharray:none;stroke-opacity:0.911086"
+         x="52.673759"
+         y="68.009277">Direction of positive charge</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:4.93889px;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-dasharray:none;stroke-opacity:0.911086"
+         x="52.673759"
+         y="74.182892"
+         id="tspan6412">in Field of electricity </tspan><tspan
+         sodipodi:role="line"
+         style="font-size:4.93889px;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-dasharray:none;stroke-opacity:0.911086"
+         x="52.673759"
+         y="80.356499"
+         id="tspan5540">is the same with </tspan><tspan
+         sodipodi:role="line"
+         style="font-size:4.93889px;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-dasharray:none;stroke-opacity:0.911086"
+         x="52.673759"
+         y="86.530113"
+         id="tspan6414">the direction of field</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.93889px;font-family:'DejaVu Serif';-inkscape-font-specification:'DejaVu Serif';fill:#fffff6;fill-opacity:1;stroke:#4c6bf0;stroke-width:0.5;stroke-dasharray:none;stroke-opacity:0.911086"
+       x="131.10094"
+       y="68.009277"
+       id="text4566-3"><tspan
+         sodipodi:role="line"
+         id="tspan4564-6"
+         style="font-size:4.93889px;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-dasharray:none;stroke-opacity:0.911086"
+         x="131.10094"
+         y="68.009277">Direction of negative charge</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:4.93889px;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-dasharray:none;stroke-opacity:0.911086"
+         x="131.10094"
+         y="74.182892"
+         id="tspan6412-1">in Field of electricity </tspan><tspan
+         sodipodi:role="line"
+         style="font-size:4.93889px;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-dasharray:none;stroke-opacity:0.911086"
+         x="131.10094"
+         y="80.356499"
+         id="tspan5540-2">is the opposite with </tspan><tspan
+         sodipodi:role="line"
+         style="font-size:4.93889px;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-dasharray:none;stroke-opacity:0.911086"
+         x="131.10094"
+         y="86.530113"
+         id="tspan6414-9">the direction of field</tspan></text>
+  </g>
+</svg>

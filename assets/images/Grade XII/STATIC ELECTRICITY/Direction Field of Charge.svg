@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="Direction Field of Charge.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.5894754"
+     inkscape:cx="248.52606"
+     inkscape:cy="290.08844"
+     inkscape:window-width="1024"
+     inkscape:window-height="696"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer3" />
+  <defs
+     id="defs2">
+    <marker
+       style="overflow:visible"
+       id="Arrow4"
+       refX="44"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Arrow4"
+       markerWidth="5"
+       markerHeight="6"
+       viewBox="0 0 5 6"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         d="m 1,0 -3,3 h -2 l 3,-3 -3,-3 h 2 z"
+         id="path1741" />
+    </marker>
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect115"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect115-3"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect115-7"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect115-3-5"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <marker
+       style="overflow:visible"
+       id="Arrow4-6"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Arrow4"
+       markerWidth="5"
+       markerHeight="6"
+       viewBox="0 0 5 6"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         d="m 1,0 -3,3 h -2 l 3,-3 -3,-3 h 2 z"
+         id="path1741-2" />
+    </marker>
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect115-9"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect115-3-1"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect115-7-2"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect115-3-5-7"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+  </defs>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="watermark">
+    <text
+       xml:space="preserve"
+       style="font-size:16.6807px;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif';opacity:0.307084;fill:#000000;stroke:#000000;stroke-width:0.985078"
+       x="-46.943584"
+       y="119.07957"
+       id="text4675"
+       transform="matrix(1.0112139,-0.44460569,0.63250101,0.71081541,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan4673"
+         style="stroke-width:0.985078"
+         x="-46.943584"
+         y="119.07957">ACHEN'S SCRIBBLES</tspan></text>
+  </g>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g2986"
+       transform="translate(21.490063,1.9551924)">
+      <path
+         style="fill:#808000;stroke:#000000;stroke-width:1;marker-start:url(#Arrow4);marker-end:url(#Arrow4)"
+         d="m 3.5959822,75.482777 c 18.4711818,0 36.9420998,0 55.4127518,0"
+         id="path113"
+         inkscape:path-effect="#path-effect115"
+         inkscape:original-d="m 3.5959822,75.482777 c 18.4711818,2.65e-4 36.9420998,2.65e-4 55.4127518,0" />
+      <path
+         style="fill:#808000;stroke:#000000;stroke-width:1;marker-start:url(#Arrow4);marker-end:url(#Arrow4)"
+         d="m 31.419179,47.803683 c 0,18.471182 0,36.9421 0,55.412767"
+         id="path113-6"
+         inkscape:path-effect="#path-effect115-3"
+         inkscape:original-d="m 31.419179,47.803683 c -2.65e-4,18.471182 -2.65e-4,36.9421 0,55.412767" />
+      <path
+         style="fill:#808000;stroke:#000000;stroke-width:1;marker-start:url(#Arrow4);marker-end:url(#Arrow4)"
+         d="m 11.153143,56.238192 c 13.261923,12.857131 26.523607,25.71403 39.785075,38.57072"
+         id="path113-3"
+         inkscape:path-effect="#path-effect115-7"
+         inkscape:original-d="m 11.153143,56.238192 c 13.261738,12.857321 26.523422,25.71422 39.785075,38.57072" />
+      <path
+         style="fill:#808000;stroke:#000000;stroke-width:1;marker-start:url(#Arrow4);marker-end:url(#Arrow4)"
+         d="M 50.396034,55.731894 C 37.5389,68.99382 24.68195,82.255557 11.825166,95.517122"
+         id="path113-6-5"
+         inkscape:path-effect="#path-effect115-3-5"
+         inkscape:original-d="M 50.396034,55.731894 C 37.538713,68.993639 24.681763,82.255375 11.825166,95.517122" />
+    </g>
+    <g
+       id="g1376"
+       transform="translate(-13.816352,2.5976682)">
+      <g
+         id="g1368">
+        <g
+           id="g1196-0"
+           transform="translate(124.19551,-2.7529751)">
+          <path
+             style="fill:#808000;stroke:#000000;stroke-width:1;marker-start:url(#Arrow4-6);marker-end:url(#Arrow4-6)"
+             d="m 3.5959822,75.482777 c 18.4711818,0 36.9420998,0 55.4127518,0"
+             id="path113-9"
+             inkscape:path-effect="#path-effect115-9"
+             inkscape:original-d="m 3.5959822,75.482777 c 18.4711818,2.65e-4 36.9420998,2.65e-4 55.4127518,0" />
+          <path
+             style="fill:#808000;stroke:#000000;stroke-width:1;marker-start:url(#Arrow4-6);marker-end:url(#Arrow4-6)"
+             d="m 31.419179,47.803683 c 0,18.471182 0,36.9421 0,55.412767"
+             id="path113-6-3"
+             inkscape:path-effect="#path-effect115-3-1"
+             inkscape:original-d="m 31.419179,47.803683 c -2.65e-4,18.471182 -2.65e-4,36.9421 0,55.412767" />
+          <path
+             style="fill:#808000;stroke:#000000;stroke-width:1;marker-start:url(#Arrow4-6);marker-end:url(#Arrow4-6)"
+             d="m 11.153143,56.238192 c 13.261923,12.857131 26.523607,25.71403 39.785075,38.57072"
+             id="path113-3-6"
+             inkscape:path-effect="#path-effect115-7-2"
+             inkscape:original-d="m 11.153143,56.238192 c 13.261738,12.857321 26.523422,25.71422 39.785075,38.57072" />
+          <path
+             style="fill:#808000;stroke:#000000;stroke-width:1;marker-start:url(#Arrow4-6);marker-end:url(#Arrow4-6)"
+             d="M 50.396034,55.731894 C 37.5389,68.99382 24.68195,82.255557 11.825166,95.517122"
+             id="path113-6-5-0"
+             inkscape:path-effect="#path-effect115-3-5-7"
+             inkscape:original-d="M 50.396034,55.731894 C 37.538713,68.993639 24.681763,82.255375 11.825166,95.517122" />
+        </g>
+      </g>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:16.9333px;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif';fill:#000000;stroke:#000000;stroke-width:1"
+       x="19.482162"
+       y="22.40567"
+       id="text4014"><tspan
+         sodipodi:role="line"
+         id="tspan4012"
+         style="font-size:16.9333px;fill:#000000;stroke-width:1"
+         x="19.482162"
+         y="22.40567">Field Direction of Charge</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="charge"
+     transform="matrix(0.74223245,0,0,0.74223245,42.465508,22.780145)"
+     style="fill:#ffff00">
+    <path
+       style="fill:#ffff00;stroke:#000000;stroke-width:0.680266"
+       id="path3041"
+       sodipodi:type="arc"
+       sodipodi:cx="134.26453"
+       sodipodi:cy="71.189339"
+       sodipodi:rx="13.760311"
+       sodipodi:ry="16.811604"
+       sodipodi:start="0"
+       sodipodi:end="6.2798697"
+       sodipodi:open="true"
+       sodipodi:arc-type="chord"
+       d="m 148.02484,71.189339 a 13.760311,16.811604 0 0 1 -13.74891,16.811597 13.760311,16.811604 0 0 1 -13.7717,-16.783727 13.760311,16.811604 0 0 1 13.72608,-16.839422 13.760311,16.811604 0 0 1 13.79445,16.755811 z" />
+    <path
+       style="fill:#000080;stroke:#000000;stroke-width:0.680266"
+       id="path3041-6"
+       sodipodi:type="arc"
+       sodipodi:cx="14.363243"
+       sodipodi:cy="73.249939"
+       sodipodi:rx="13.760311"
+       sodipodi:ry="16.811604"
+       sodipodi:start="0"
+       sodipodi:end="6.2798697"
+       sodipodi:open="true"
+       sodipodi:arc-type="chord"
+       d="M 28.123554,73.249939 A 13.760311,16.811604 0 0 1 14.374649,90.061537 13.760311,16.811604 0 0 1 0.60295089,73.277809 13.760311,16.811604 0 0 1 14.329025,56.438387 13.760311,16.811604 0 0 1 28.123479,73.194198 Z" />
+    <rect
+       style="fill:#f2f2f2;stroke:#000000;stroke-width:1.20365"
+       id="rect3196"
+       width="19.173296"
+       height="7.3813906"
+       x="4.8069129"
+       y="70.096855" />
+    <g
+       id="g3306"
+       transform="translate(19.24227,-83.088915)">
+      <rect
+         style="fill:#000000;stroke:#000000;stroke-width:1.17079"
+         id="rect3196-2"
+         width="18.060555"
+         height="7.4142432"
+         x="106.08882"
+         y="151.12462" />
+      <rect
+         style="fill:#000000;stroke:#000000;stroke-width:1.17079"
+         id="rect3196-2-6"
+         width="18.060555"
+         height="7.4142432"
+         x="145.32373"
+         y="-119.09473"
+         transform="rotate(90)" />
+    </g>
+  </g>
+</svg>

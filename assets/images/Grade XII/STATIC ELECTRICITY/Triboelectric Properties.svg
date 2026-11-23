@@ -1,0 +1,446 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="Triboelectric Properties.svg"
+   inkscape:export-filename="Triboelectric Properties.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.1893044"
+     inkscape:cx="402.75643"
+     inkscape:cy="309.00415"
+     inkscape:window-width="1364"
+     inkscape:window-height="951"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer3" />
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient18821">
+      <stop
+         style="stop-color:#1340d0;stop-opacity:1;"
+         offset="0"
+         id="stop18817" />
+      <stop
+         style="stop-color:#00ff00;stop-opacity:0;"
+         offset="1"
+         id="stop18819" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient18696">
+      <stop
+         style="stop-color:#b7f10e;stop-opacity:1;"
+         offset="0"
+         id="stop18692" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop18694" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient7106">
+      <stop
+         style="stop-color:#0800f2;stop-opacity:1;"
+         offset="0"
+         id="stop7102" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop7104" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient7098">
+      <stop
+         style="stop-color:#d4e40e;stop-opacity:1;"
+         offset="0"
+         id="stop7094" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop7096" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient7098"
+       id="linearGradient7100"
+       x1="96.200198"
+       y1="49.356552"
+       x2="127.62561"
+       y2="49.356552"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.7707584,0,0,0.56114005,-148.23156,-134.35475)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient7106"
+       id="linearGradient7108"
+       x1="148.19682"
+       y1="112.97164"
+       x2="179.62223"
+       y2="112.97164"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.793021,0,0,0.56045115,-343.82389,77.198464)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient18696"
+       id="linearGradient18698"
+       x1="60.858635"
+       y1="50.338552"
+       x2="73.313733"
+       y2="50.338552"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient18821"
+       id="linearGradient18823"
+       x1="60.858635"
+       y1="50.338552"
+       x2="73.313733"
+       y2="50.338552"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient18821"
+       id="linearGradient19570"
+       gradientUnits="userSpaceOnUse"
+       x1="60.858635"
+       y1="50.338552"
+       x2="73.313733"
+       y2="50.338552" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient18821"
+       id="linearGradient19572"
+       gradientUnits="userSpaceOnUse"
+       x1="60.858635"
+       y1="50.338552"
+       x2="73.313733"
+       y2="50.338552" />
+  </defs>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Layer 2">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.2348px;font-family:'Nimbus Sans';-inkscape-font-specification:'Nimbus Sans';opacity:0.389977;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.181326;stroke-dasharray:none"
+       x="124.77794"
+       y="78.905594"
+       id="text18999"
+       transform="matrix(0.91491058,0.00889995,-0.3691744,1.0894118,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan18997"
+         style="font-size:10.2348px;fill:#000000;fill-opacity:1;stroke-width:0.181326"
+         x="124.77794"
+         y="78.905594">Achen's Scribbles</tspan></text>
+  </g>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-size:8.46667px;font-family:'DejaVu Serif';-inkscape-font-specification:'DejaVu Serif';fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.2;stroke-dasharray:none"
+       x="60.324409"
+       y="19.055014"
+       id="text236"><tspan
+         sodipodi:role="line"
+         id="tspan234"
+         style="stroke-width:0.2;fill:#000000;fill-opacity:1;stroke-dasharray:none"
+         x="60.324409"
+         y="19.055014" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:'Nimbus Sans';-inkscape-font-specification:'Nimbus Sans';fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.2;stroke-dasharray:none"
+       x="85.290138"
+       y="8.641201"
+       id="text794"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Nimbus Sans';-inkscape-font-specification:'Nimbus Sans';stroke-width:0.2"
+         x="85.290138"
+         y="8.641201"
+         id="tspan7124">Triboelectric Properties</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:'Nimbus Sans';-inkscape-font-specification:'Nimbus Sans';fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.1;stroke-dasharray:none"
+       x="95.711891"
+       y="25.185526"
+       id="text3914"><tspan
+         sodipodi:role="line"
+         id="tspan3912"
+         style="stroke-width:0.1;fill:#000000;fill-opacity:1;stroke-dasharray:none"
+         x="95.711891"
+         y="25.185526" /></text>
+    <rect
+       style="fill:url(#linearGradient7100);fill-opacity:1;stroke:#000000;stroke-width:0.110952;stroke-dasharray:none"
+       id="rect2458"
+       width="55.449718"
+       height="31.931684"
+       x="22.214291"
+       y="-122.62463"
+       transform="rotate(90)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'Nimbus Sans';-inkscape-font-specification:'Nimbus Sans';fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.1;stroke-dasharray:none"
+       x="92.234329"
+       y="27.009338"
+       id="text3918"><tspan
+         sodipodi:role="line"
+         id="tspan3916"
+         style="font-size:4.93889px;stroke-width:0.1"
+         x="92.234329"
+         y="27.009338">Human Body</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:4.93889px;stroke-width:0.1"
+         x="92.234329"
+         y="33.182949"
+         id="tspan3920">Glass</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:4.93889px;stroke-width:0.1"
+         x="92.234329"
+         y="39.35656"
+         id="tspan4648">Mica</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:4.93889px;stroke-width:0.1"
+         x="92.234329"
+         y="45.530174"
+         id="tspan4650">Nylon</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:4.93889px;stroke-width:0.1"
+         x="92.234329"
+         y="51.703785"
+         id="tspan4652">Wool</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:4.93889px;stroke-width:0.1"
+         x="92.234329"
+         y="57.877399"
+         id="tspan5380">Silk</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:4.93889px;stroke-width:0.1"
+         x="92.234329"
+         y="64.05101"
+         id="tspan5382">Aluminium</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:4.93889px;stroke-width:0.1"
+         x="92.234329"
+         y="70.224625"
+         id="tspan6110">Polyester</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:4.93889px;stroke-width:0.1"
+         x="92.234329"
+         y="76.398239"
+         id="tspan6112">Paper</tspan></text>
+    <rect
+       style="fill:url(#linearGradient7108);fill-opacity:1;stroke:#000000;stroke-width:0.11158;stroke-dasharray:none"
+       id="rect2458-7"
+       width="56.146858"
+       height="31.892479"
+       x="-78.004112"
+       y="124.56731"
+       transform="rotate(-90)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'Nimbus Sans';-inkscape-font-specification:'Nimbus Sans';fill:#00ff00;fill-opacity:1;stroke:#000000;stroke-width:0.1;stroke-dasharray:none"
+       x="124.4875"
+       y="25.595154"
+       id="text3918-0"><tspan
+         sodipodi:role="line"
+         style="font-size:4.93889px;fill:#00ff00;fill-opacity:1;stroke-width:0.1"
+         x="124.4875"
+         y="25.595154"
+         id="tspan6112-8">Cotton</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:4.93889px;fill:#00ff00;fill-opacity:1;stroke-width:0.1"
+         x="124.4875"
+         y="31.768768"
+         id="tspan9407">Steel</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:4.93889px;fill:#00ff00;fill-opacity:1;stroke-width:0.1"
+         x="124.4875"
+         y="37.942375"
+         id="tspan10861">Copper</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:4.93889px;fill:#00ff00;fill-opacity:1;stroke-width:0.1"
+         x="124.4875"
+         y="44.11599"
+         id="tspan10863">Rubber</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:4.93889px;fill:#00ff00;fill-opacity:1;stroke-width:0.1"
+         x="124.4875"
+         y="50.289604"
+         id="tspan11591">Polyurethane</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:4.93889px;fill:#00ff00;fill-opacity:1;stroke-width:0.1"
+         x="124.4875"
+         y="56.463219"
+         id="tspan12319">polypropylene</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:4.93889px;fill:#00ff00;fill-opacity:1;stroke-width:0.1"
+         x="124.4875"
+         y="62.636826"
+         id="tspan13773">Vinyl chloride</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:4.93889px;fill:#00ff00;fill-opacity:1;stroke-width:0.1"
+         x="124.4875"
+         y="68.81044"
+         id="tspan15953">Silicon</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:4.93889px;fill:#00ff00;fill-opacity:1;stroke-width:0.1"
+         x="124.4875"
+         y="74.984047"
+         id="tspan17407">Fluoropolymer</tspan></text>
+    <g
+       id="g18690"
+       transform="translate(17.151366,-0.6903694)"
+       style="fill-opacity:1;fill:url(#linearGradient18698)">
+      <path
+         sodipodi:type="star"
+         style="fill:url(#linearGradient18698);fill-opacity:1;stroke:#000000;stroke-width:0.1;stroke-dasharray:none"
+         id="path18684"
+         inkscape:flatsided="false"
+         sodipodi:sides="3"
+         sodipodi:cx="51.711975"
+         sodipodi:cy="27.190928"
+         sodipodi:r1="7.0884938"
+         sodipodi:r2="3.4594693"
+         sodipodi:arg1="0.52359878"
+         sodipodi:arg2="1.5707963"
+         inkscape:rounded="0"
+         inkscape:randomized="0"
+         d="m 57.850791,30.735174 -6.138816,-0.08478 -6.138816,0.08478 3.142828,-5.273981 2.995988,-5.358759 2.995988,5.358759 z"
+         inkscape:transform-center-y="-1.7721239"
+         transform="translate(15.374209,3.1895608)" />
+      <rect
+         style="fill:url(#linearGradient18698);fill-opacity:1;stroke:#000000;stroke-width:0.127286;stroke-dasharray:none"
+         id="rect18686"
+         width="4.5753727"
+         height="43.439037"
+         x="64.798492"
+         y="33.98489" />
+    </g>
+    <g
+       id="g18690-2"
+       transform="matrix(-0.99978975,0,0,-1.0305278,230.18823,101.95555)"
+       style="fill:url(#linearGradient18823);fill-opacity:1">
+      <path
+         sodipodi:type="star"
+         style="fill:url(#linearGradient19570);fill-opacity:1;stroke:#000000;stroke-width:0.1;stroke-dasharray:none"
+         id="path18684-0"
+         inkscape:flatsided="false"
+         sodipodi:sides="3"
+         sodipodi:cx="51.711975"
+         sodipodi:cy="27.190928"
+         sodipodi:r1="7.0884938"
+         sodipodi:r2="3.4594693"
+         sodipodi:arg1="0.52359878"
+         sodipodi:arg2="1.5707963"
+         inkscape:rounded="0"
+         inkscape:randomized="0"
+         d="m 57.850791,30.735174 -6.138816,-0.08478 -6.138816,0.08478 3.142828,-5.273981 2.995988,-5.358759 2.995988,5.358759 z"
+         inkscape:transform-center-y="-1.7721239"
+         transform="translate(15.374209,3.1895608)" />
+      <rect
+         style="fill:url(#linearGradient19572);fill-opacity:1;stroke:#000000;stroke-width:0.127286;stroke-dasharray:none"
+         id="rect18686-2"
+         width="4.5753727"
+         height="43.439037"
+         x="64.798492"
+         y="33.98489" />
+    </g>
+    <g
+       id="g18925"
+       transform="translate(27.937346,-3.1060045)">
+      <ellipse
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.213849;stroke-dasharray:none"
+         id="path18825"
+         cx="56.623032"
+         cy="32.667316"
+         rx="3.4973392"
+         ry="3.6181059" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.9389px;font-family:'Nimbus Sans';-inkscape-font-specification:'Nimbus Sans';fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.3;stroke-dasharray:none"
+         x="55.164402"
+         y="34.029667"
+         id="text18881"><tspan
+           sodipodi:role="line"
+           id="tspan18879"
+           style="stroke-width:0.3"
+           x="55.164402"
+           y="34.029667">+</tspan></text>
+    </g>
+    <g
+       id="g18930"
+       transform="matrix(0.99978975,0,0,1.0305278,124.4432,-13.364095)">
+      <ellipse
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.213849;stroke-dasharray:none"
+         id="path18825-3"
+         cx="38.709602"
+         cy="81.646118"
+         rx="3.4973392"
+         ry="3.6181059" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.9389px;font-family:'Nimbus Sans';-inkscape-font-specification:'Nimbus Sans';fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.3;stroke-dasharray:none"
+         x="37.250973"
+         y="83.008469"
+         id="text18881-7"><tspan
+           sodipodi:role="line"
+           id="tspan18879-5"
+           style="stroke-width:0.3"
+           x="37.250973"
+           y="83.008469">-</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'Nimbus Sans';-inkscape-font-specification:'Nimbus Sans';opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.3;stroke-dasharray:none"
+       x="-71.852882"
+       y="85.5065"
+       id="text19369"
+       transform="rotate(-90)"><tspan
+         sodipodi:role="line"
+         id="tspan19367"
+         style="font-size:4.93889px;fill:#000000;fill-opacity:1;stroke-width:0.3"
+         x="-71.852882"
+         y="85.5065">tend to positive</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.01318px;font-family:'Nimbus Sans';-inkscape-font-specification:'Nimbus Sans';fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.304513;stroke-dasharray:none"
+       x="27.582064"
+       y="-163.82001"
+       id="text19369-9"
+       transform="matrix(0,1.0152559,-0.98497337,0,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan19367-2"
+         style="font-size:5.01318px;fill:#000000;fill-opacity:1;stroke-width:0.304513"
+         x="27.582064"
+         y="-163.82001">tend to negative</tspan></text>
+  </g>
+</svg>
